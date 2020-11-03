@@ -79,9 +79,12 @@ smallbanner() {
 
 clear
 printf "\e[0m\n"
-printf "\e[0m\e[93m |\\  //|                                              ____    \e[0m\n"
-printf "\e[0m\e[93m ||\\//||  ||  || ||\\ ||  ||// ||_|| ||  ||  ||  ||  ||__   ||_||   \e[0m\n"
-printf "\e[0m\e[93m ||    ||  ||__|| || \\||  ||\\ || || ||__||  ||__||  ___||  || ||       \e[0m\e[1;46m[V 1.0]\e[0m\n"
+printf "\e[0m\e[93m ╭━╮╭━╮╱╱╱╱╱╭╮╱╭╮╱╱╱╱╱╱╱╱╱╱╭╮ \e[0m\n"
+printf "\e[0m\e[93m ┃┃╰╯┃┃╱╱╱╱╱┃┃╱┃┃╱╱╱╱╱╱╱╱╱╱┃┃ \e[0m\n"
+printf "\e[0m\e[93m ┃╭╮╭╮┣╮╭┳━╮┃┃╭┫╰━┳╮╭┳╮╭┳━━┫╰━╮ \e[0m\e[1;46m[V 1.0]\e[0m\n"
+printf "\e[0m\e[93m ┃┃┃┃┃┃┃┃┃╭╮┫╰╯┫╭╮┃┃┃┃┃┃┃━━┫╭╮┃ \e[0m\n"
+printf "\e[0m\e[93m ┃┃┃┃┃┃╰╯┃┃┃┃╭╮┫┃┃┃╰╯┃╰╯┣━━┃┃┃┃ \e[0m\n"
+printf "\e[0m\e[93m ╰╯╰╯╰┻━━┻╯╰┻╯╰┻╯╰┻━━┻━━┻━━┻╯╰╯┃ \e[0m\n"
 printf "\e[0m\n"
 printf "    \e[0m\e[1;44m Advanced Phishing Tool with 30+ Templates\e[0m\n"
 printf "\e[0m\n"
