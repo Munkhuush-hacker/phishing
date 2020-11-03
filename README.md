@@ -5,8 +5,8 @@
 <a href="#"><img title="Zphisher" src="https://github.com/Munkhuush-hacker/banner/blob/main/BAnner%20Munrab.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/htr-tech"><img title="Author" src="https://facebook.com/MUnkhuushs"></a>
-<a href="#"><img title="Open Source" src="https://instagram.com/Munkhuushs"></a>
+<a href="https://facebook.com/MUnkhuushs"><img title="FACEBOOK" src="https://facebook.com/MUnkhuushs"></a>
+<a href="https://instagram.com/Munkhuushs"><img title="INSTAGRAM" src="https://instagram.com/Munkhuushs"></a>
 </p>
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
